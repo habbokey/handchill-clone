@@ -15,13 +15,13 @@ Fansite CMS powered by Habbink. Developer by Hugoyin.
     
 4. And database settings.
 
-    • PhpMyAdmin open.
+    • PhpMyAdmin open
     
-    • Your database.
+    • Your database
     
-    • Open the config table.
+    • Open the config table
     
-    • URL and title edit.
+    • URL and title edit
 
 5. Adapt the CMS to your hotel via the `Library > Sessions > Config > Language > En` file.
 
